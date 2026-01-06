@@ -21,18 +21,6 @@ I'm a 19-year-old developer learning modern web technologies through hands-on pr
 
 ---
 
-## What I'm Exploring
-
-I'm figuring out what project to commit to next. Current directions I'm considering:
-
-- **Roblox game development** — building games on the platform with monetisation in mind
-- **RobloxThreads** — a fan site concept combining avatar customisation with in-game integration
-- **Guild management tools** — accountability and coordination tools for gaming communities
-
-I like projects that solve real problems for communities I'm already part of.
-
----
-
 ## About Me
 
 I learn by building. I'm currently in a mentorship program with a senior full-stack developer, working through daily calls and practical projects. I pick up patterns quickly and enjoy figuring out how things fit together.
