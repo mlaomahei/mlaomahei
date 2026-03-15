@@ -8,7 +8,7 @@ I'm a 19-year-old developer learning modern web technologies through hands-on pr
 
 ## Previous Projects
 
-- **[E7Baron](https://e7baron.netlify.app)** — A database and resource hub for the mobile game Epic Seven, built with Next.js and React
+- **[E7Baron](https://e7baron.com)** — A database and resource hub for the mobile game Epic Seven, built with Next.js and React
 - **[Sesa](https://github.com/mlaomahei/sesa-discord)** — A Secret Santa Discord bot
 
 ---
