@@ -12,7 +12,7 @@ I'm a 19-year-old developer working with modern web technologies through hands-o
 
 ## Projects
 - **[E7Baron](https://e7baron.com)** — A database and resource hub for the mobile game Epic Seven, built with Next.js and React
-- **[ConsistentDoubleJump](https://github.com/mlaomahei/ConsistentDoubleJump)** — A double jump + bhop assist plugin for CS2, built with C# and CounterStrikeSharp. Features live-tuning commands and configurable movement settings for community servers.
+- **[ConsistentDoubleJump](https://github.com/mlaomahei/ConsistentDoubleJump)** — A double jump + bhop assist plugin for CS2, built with C# and CounterStrikeSharp.
 - **[Sesa](https://github.com/mlaomahei/sesa-discord)** — A Secret Santa Discord bot
 
 ---
