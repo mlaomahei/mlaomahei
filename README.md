@@ -1,7 +1,7 @@
 # Hey, I'm Mosiah 👋
 **Junior Developer from Auckland, New Zealand**
 
-I'm a 19-year-old developer working with modern web technologies through hands-on projects and structured mentorship. Currently working as a frontend developer on a contract role.
+I'm a 19-year-old developer working with modern web technologies through hands-on projects and structured mentorship. Currently working as a Full Stack on a contract role.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
