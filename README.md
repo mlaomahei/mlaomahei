@@ -1,29 +1,30 @@
 # Hey, I'm Mosiah 👋
-**Junior Developer from Auckland, New Zealand**
+**Junior developer, Auckland NZ**
 
-I'm a 19-year-old developer working with modern web technologies through hands-on projects and structured mentorship. Currently working as a Full Stack on a contract role.
+I'm 19 and I learn by building things. Most of what I know came from a mentorship with a senior dev
+(daily calls, real projects, lots of "why does this work") and from shipping stuff I actually wanted to exist.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Occasionally Broken](https://img.shields.io/badge/Occasionally_Broken-C6FF00?style=flat&labelColor=000000&logoColor=white)
 
----
+## Things I've made
 
-## Projects
-- **[E7Baron](https://e7baron.com)** — A database and resource hub for the mobile game Epic Seven, built with Next.js and React
-- **[ConsistentDoubleJump](https://github.com/mlaomahei/ConsistentDoubleJump)** — A double jump + bhop assist plugin for CS2, built with C# and CounterStrikeSharp.
-- **[Sesa](https://github.com/mlaomahei/sesa-discord)** — A Secret Santa Discord bot
+**[Occasionally Broken](https://occasionallybroken.com)**
+Generates "1 hour of silence occasionally broken up by X" videos, the YouTube format.
 
----
+**[E7Baron](https://e7baron.com)**
+Guides and a guild database for the mobile game Epic Seven. Built for my guild, ended up bigger than planned. Next.js and Supabase.
 
-## About Me
-I learn by building. I started through a mentorship program with a senior full-stack developer, working through daily calls and practical projects. I pick up patterns quickly and enjoy figuring out how things fit together.
+**[ConsistentDoubleJump](https://github.com/mlaomahei/ConsistentDoubleJump)**
+A double jump and bhop assist plugin for CS2, written in C# with CounterStrikeSharp.
 
----
+## Right now
+Shipping small things and seeing which ones people actually use.
 
-## Let's Connect
-- 📍 Auckland, NZ
-- 📧 mosiahlaomahei@gmail.com
+## Say hi
+mosiahlaomahei@gmail.com 📫
 
-Not currently looking for work, but always happy to connect or collaborate on interesting projects.
+Not looking for work at the moment, but always keen to talk shop or collaborate on something fun.
