@@ -8,7 +8,6 @@ I'm 19 and I learn by building things. Most of what I know came from a mentorshi
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Occasionally Broken](https://img.shields.io/badge/Occasionally_Broken-C6FF00?style=flat&labelColor=000000&logoColor=white)
 
 ## Things I've made
 
